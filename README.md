@@ -1,2 +1,4 @@
-# sample-java-app
-welcome to sample java app.
+java-hello-world-webapp
+=======================
+
+A simple java web app
